@@ -1,0 +1,9 @@
+audio:
+  language: "en"
+  listen_timeout: 40
+  phrase_time_limit: 40
+  noise_adjust_duration: 1
+
+system:
+  vision_enabled: true
+  reasoning_enabled: true
